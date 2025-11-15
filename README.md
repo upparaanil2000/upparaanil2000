@@ -58,12 +58,12 @@ To become a strong **Automation Test Engineer (Python)** and build scalable, rel
 ---
 
 ## 📈 GitHub Stats  
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniluppara&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniluppara&layout=compact)
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=upparaanil2000&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upparaanil2000&layout=compact)
 
 ---
 
 ## 📫 Connect With Me  
-📧 **Email:** your-email-here  
-🔗 **LinkedIn:** your-linkedin-here  
+📧 **Email:** upparaanil2000@gmail.com
+🔗 **LinkedIn:** www.linkedin.com/in/upparaanil
 
